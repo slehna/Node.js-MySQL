@@ -1,0 +1,23 @@
+{
+    "name": "customer view",
+    "version": "1.0.0",
+    "description": "homework week12",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/lehna/node-mysql.git"
+    },
+    "author": "lehna",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/lehna/node-mysql/issues"
+    },
+    "homepage": "https://github.com/lehna/node-mysql#readme",
+    "dependencies": {
+      "mysql": "^2.16.0",
+      "inquirer": "^6.2.1",
+    }
+  }
